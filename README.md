@@ -1,28 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Iqbal Nurkholis. 👋
+![](https://komarev.com/ghpvc/?username=iqbl-nrkhls)
 
-<p align="center">
-  <samp>
-    Hello, I'm Iqbal Nurkholis. <br>
-  </samp>
-  <a href="https://www.linkedin.com/in/iqbalnurkholis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <br>
-  
-  ![github stats](https://github-readme-stats.vercel.app/api?username=iqbl-nrkhls&show_icons=true)
-</p>
+## I'm a Frontend Developer
 
-<!--
-**iqbl-nrkhls/iqbl-nrkhls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on IconPLN
+- 🌱 I’m currently learning everything 
+- 🤝 I’m looking to collaborate with other developer
+- ⚡ Fun fact: I'm so handsome 🤣
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn]([https://www.codewars.com/users/dhanushka/badges/large](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white))]([https://www.codewars.com/users/dhanushka](https://www.linkedin.com/in/iqbalnurkholis))
+
+![github stats](https://github-readme-stats.vercel.app/api?username=iqbl-nrkhls&show_icons=true)
+
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+
